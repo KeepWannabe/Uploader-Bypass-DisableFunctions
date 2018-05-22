@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#Uploader With Tools For Bypassing Disable Function
 
-You can use the [editor on GitHub](https://github.com/abdiprawira/Uploader-Bypass-DisableFunctions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This Uploader has been reCoded by me a.k.a Jakarta6etar
+just noob, and i want learn to be better
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Thank's To
 
-### Markdown
+###IndoXploit
+###Xai Syndicate
+###ZeroByte ID
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Fiture :
+##NO LOGGER
+##Anti Dorking
+##Uploader On Root Dir / Non-Root Dir
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdiprawira/Uploader-Bypass-DisableFunctions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Crashed Code?
+###Tell On Issues
