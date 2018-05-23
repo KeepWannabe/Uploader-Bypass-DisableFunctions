@@ -34,7 +34,7 @@ div {
     <div class="bground"></div>
     <h1>Jakarta6etar</h1>
     </center><br>
-    <div class="footer">&copy; 2015 - 2018<br><span>Eldersc0de Family</span></div>
+    <div class="footer">&copy; 2015 - 2018<br><span>ELDERSC0DE FAMILY</span></div>
 </body>
 <?php 
 #################################################
